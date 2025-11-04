@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mirko Zitkovich</h1>
-<h3 align="center">Researcher and developer focused on Optical Networks—originally from Chile 🇨🇱</h3>
+<h3 align="center">Researcher and developer focused on Optical Networks</h3>
 <div align="center">
   <a href="https://cl.linkedin.com/in/mirko-zitkovich-77131b261" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
